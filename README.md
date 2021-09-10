@@ -2,6 +2,20 @@
 
 #### O software Your Helper - Help Desk foi desenvolvido por mim, Danilo Dutra, para auxiliar o atendimento de Suporte Técnico 1º Nível na Assessória de Informática da SEC(Secretaria de Educação e Cidadania) da Prefeitura de São José dos Campos, SP.
 
+O Software foi desenvolvido em Python.
+Utilização de bibliotecas: os, pysimplegui, msgbox(pysimplegui, pyautogui, time, webbrowser
+
+Implementei também 5 temas nativos para o Software: 
+
+- Dark2
+- Dark Blue
+- Topanga
+- Light Blue
+- SystemDefault
+
+#### Temas disponíveis
+<img src="./themes.png">
+
 
 #### Tela Principal do Software Your Helper
 <img src="./your-helper_01.png">
