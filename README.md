@@ -1,6 +1,6 @@
 # Software Help Desk: Your Helper
 
-<h3>O software Your Helper - Help Desk foi desenvolvido por mim, Danilo Dutra, para auxiliar o atendimento de Suporte Técnico 1º Nível na Assessória de Informática da SEC(Secretaria de Educação e Cidadania) da Prefeitura de São José dos Campos, SP.</h3>
+#### O software Your Helper - Help Desk foi desenvolvido por mim, Danilo Dutra, para auxiliar o atendimento de Suporte Técnico 1º Nível na Assessória de Informática da SEC(Secretaria de Educação e Cidadania) da Prefeitura de São José dos Campos, SP.
 
 
 #### Tela Principal do Software Your Helper
