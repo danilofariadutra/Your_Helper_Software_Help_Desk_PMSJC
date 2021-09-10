@@ -125,39 +125,45 @@
 #### Seção Máquinas Virtuais:
 <img src="./your_helper_maquinas.png">
 
-### PINGER:
+### PINGER
 
-#### PINGER
+<img src="./your_helper_pinger.png">
+
 ```
   Campo para inserção de IP ou nome da máquina no domínio. 
   Utilizado para teste de ping.
 ```
- 1. Insira o número de IP ou nome da máquina no domínio e clique em "PINGAR"
+ 1. Insira o número de IP ou nome da máquina no domínio e clique em "PINGAR". Clique em "Limpar" para limpar o IP ou nome da máquina.
  2. Posteriormente o programa perguntará quantas vezes deseja que o prompt faça o ping: OK para Padrão (4 vezes), "t" ou "T" para ping -t ou insira um número para a quantidade desejada 
-<img src="./pinger">
-#### Infra
-```
-  Atalho para a url da planilha de Infraestrutura
-```
-#### Webmail
-```
-  Atalho para a url do Webmail
-```
-#### E-SEC
-```
-  Atalho para a url da página do E-SEC
-```
-#### Zabbix
-```
-  Atalho a url do Sistema Zabbix
-```
-#### Intranet
-```
-  Atalho para a Intranet da Prefeitura de São José dos Campos
-```
-#### Seção Atalhos:
-<img src="./your_helper_pinger.png">
+ 
+<img src="./pinger.png">
+
+### VNC
+
 <img src="./your_helper_vnc.png">
+
+```
+  Campo para inserção de IP ou nome da máquina no domínio. 
+  Utilizado para conexão VNC.
+```
+ 1. Insira o número de IP ou nome da máquina no domínio e clique em "Conectar". Clique em "Limpar" para limpar o IP ou nome da máquina.
+ 2. Posteriormente o programa irá abrir o executável do Ultra VNC e irá digitar automaticamente o IP ou número da máquina inserido no Campo anterior. 
+ 
+ <img src="./vnc.png">
+ 
+ 3. O Your Helper perguntará se a senha VNC foi solicitada.
+ 
+ <img src="solicitacao_vnc.png">
+ 
+ 4. Caso a senha seja solicitada, clique em "Sim" para que o Your Helper preencha a senha de forma automática ou clique em "Não", caso não apareça a solicitação de senha pelo Ultra VNC.
+
+### Serviço VNC
+
 <img src="./your_helper_servico_vnc.png">
 
-
+```
+  Campo para inserção de IP ou nome da máquina no domínio. 
+  Utilizado para INICIAR/PARAR VNC remotamente através de comando via prompt de comando de forma automática.
+```
+ 1. Insira o número de IP ou nome da máquina no domínio e clique em "Conectar". Clique em "Limpar" para limpar o IP ou nome da máquina.
+ 2. Posteriormente o programa irá abrir o prompt de comando e digitará de forma automatizada a linha de comando junto ao IP ou nome da máquina no prompt de comando do Windows. 
